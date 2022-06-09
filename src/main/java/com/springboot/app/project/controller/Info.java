@@ -1,2 +1,8 @@
-package com.springboot.app.project.controller;public class Info {
+package com.springboot.app.project.controller;
+
+
+public class Info {
+
+
+
 }
